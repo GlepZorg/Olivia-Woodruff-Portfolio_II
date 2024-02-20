@@ -1,3 +1,7 @@
+body {
+    font-family: georgia;
+    background-image: url("https://www.sideshow.com/wp/wp-content/uploads/2021/05/Sauron-Ring-Lord-of-the-Rings.jpg");
+}
 .header {
     background-color: cornflowerblue;
     text-align: center;
